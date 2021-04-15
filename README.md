@@ -4,6 +4,7 @@ It conatains the dashboard page where logedin person can see the post and his pr
 
 ## Technologies Used:
 * Django
+* HTML
 * Bootstrap
 * CSS
 * sqlite3 (builtin db)
