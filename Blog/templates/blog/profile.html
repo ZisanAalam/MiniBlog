@@ -1,0 +1,14 @@
+{% extends 'blog/base.html' %}
+
+{% block title %}Contact{% endblock title %}
+
+{% block content %}
+    {{userdetails.username}}<br/>
+    {{userdetails.email}} <br>
+    {{userdetails.first_name}} <br>
+    {{userdetails.last_name}} <br>
+    {{userdetails.profile.age}} <br>
+    {{userdetails.profile.phone}} <br>
+    <img src="{{userdetails.profile.image}}" alt="">
+     <br>
+{% endblock content %}

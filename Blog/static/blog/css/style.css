@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(74, 73, 73);
+    color: antiquewhite;
+}
+
+.jumbo-color{
+    background-color: rgb(83, 81, 81);
+}
+
+.error-list{
+    color: red;
+}
