@@ -10,7 +10,7 @@ It conatains the dashboard page where logedin person can see the post and his pr
 * sqlite3 (builtin db)
 
 ## Screenshorts
-<img align="left" src="https://github.com/ZisanAalam/MiniBlog/blob/main/screenshots/image1.PNG" width="200" height="200" />
-<img align="left" src="https://github.com/ZisanAalam/MiniBlog/blob/main/screenshots/image2.PNG" width="200" height="200" />
-<img align="left" src="https://github.com/ZisanAalam/MiniBlog/blob/main/screenshots/image3.PNG" width="200" height="200" />
-<img  src="https://github.com/ZisanAalam/ATM/blob/MiniBlog/screenshots/image4.PNG" width="200" height="200" />
+<img align="left" src="https://github.com/ZisanAalam/MiniBlog/blob/main/screenshorts/image1.PNG" width="200" height="200" />
+<img align="left" src="https://github.com/ZisanAalam/MiniBlog/blob/main/screenshorts/image1.PNG" width="200" height="200" />
+<img align="left" src="https://github.com/ZisanAalam/MiniBlog/blob/main/screenshorts/image1.PNG" width="200" height="200" />
+<img  src="https://github.com/ZisanAalam/MiniBlog/blob/main/screenshorts/image1.PNG" width="200" height="200" />
