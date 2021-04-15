@@ -11,6 +11,7 @@ It conatains the dashboard page where logedin person can see the post and his pr
 
 ## Screenshorts
 <img align="left" src="https://github.com/ZisanAalam/MiniBlog/blob/main/screenshorts/image1.PNG" width="200" height="200" />
-<img align="left" src="https://github.com/ZisanAalam/MiniBlog/blob/main/screenshorts/image1.PNG" width="200" height="200" />
-<img align="left" src="https://github.com/ZisanAalam/MiniBlog/blob/main/screenshorts/image1.PNG" width="200" height="200" />
-<img  src="https://github.com/ZisanAalam/MiniBlog/blob/main/screenshorts/image1.PNG" width="200" height="200" />
+<img align="left" src="https://github.com/ZisanAalam/MiniBlog/blob/main/screenshorts/image2.PNG" width="200" height="200" />
+<img align="left" src="https://github.com/ZisanAalam/MiniBlog/blob/main/screenshorts/image3.PNG" width="200" height="200" />
+<img  src="https://github.com/ZisanAalam/MiniBlog/blob/main/screenshorts/image4.PNG" width="200" height="200" />
+<img  src="https://github.com/ZisanAalam/MiniBlog/blob/main/screenshorts/image5.PNG" width="200" height="200" />
